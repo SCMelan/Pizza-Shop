@@ -2,7 +2,7 @@
   "name": "pizza-shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://scmelan.github.io/?sortProperty=rating&categoryId=0&pageCount=1",
+  "homepage": "https://scmelan.github.io/Pizza-Shop/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
     "@testing-library/jest-dom": "^5.16.5",
